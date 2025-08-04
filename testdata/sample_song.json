@@ -1,0 +1,47 @@
+[
+  {
+    "id": "s1",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "duration": 355,
+    "genre": "Rock",
+    "bpm": 72,
+    "rating": 5
+  },
+  {
+    "id": "s2",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "duration": 183,
+    "genre": "Soft Rock",
+    "bpm": 70,
+    "rating": 4
+  },
+  {
+    "id": "s3",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "duration": 235,
+    "genre": "Pop",
+    "bpm": 96,
+    "rating": 4
+  },
+  {
+    "id": "s4",
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "duration": 482,
+    "genre": "Rock",
+    "bpm": 60,
+    "rating": 5
+  },
+  {
+    "id": "s5",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "duration": 200,
+    "genre": "Pop",
+    "bpm": 85,
+    "rating": 3
+  }
+]
